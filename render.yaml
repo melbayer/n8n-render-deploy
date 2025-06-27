@@ -6,9 +6,9 @@ services:
     autoDeploy: true
     envVars:
       - key: N8N_BASIC_AUTH_USER
-        value: yourusername
+        value: melbayer
       - key: N8N_BASIC_AUTH_PASSWORD
-        value: yoursecurepassword
+        value: rock44
       - key: N8N_PROTOCOL
         value: https
       - key: N8N_PORT
